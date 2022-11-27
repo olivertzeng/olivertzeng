@@ -17,7 +17,7 @@ My name is Oliver Tzeng, I'm 15 years old and I'm a student.
 <a href="https://github.com/olivertzeng/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=olivertzeng&hide=prs&count_private=true&theme=dark" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/olivertzeng/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olivertzeng&theme=dark&layout=compact&hide=html,javascript" />
 </a>
 
