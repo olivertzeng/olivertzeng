@@ -3,10 +3,11 @@
 My name is Oliver Tzeng, I'm 15 years old and I'm a student.
 
 #### 👨‍💻 I’m currently working on:
-* My middle school exam. (That's it)
+* Taiwanese CAP
 
 #### 📚 Currently, I'm most interested in:
 * Arch Linux
+* Shell
 * Rust
 * iOS front-end app development (Swift 5 and SwiftUI)
 
@@ -29,3 +30,5 @@ My name is Oliver Tzeng, I'm 15 years old and I'm a student.
 ## 📫 How to reach me:
 * My [Twitter](https://twitter.com/olivertzeng) profile.
 * My Discord account at `Oliver Tzeng#7530`.
+* My [Reddit](https://reddit.com/olivertzeng) profile.
+* My [Instagram](https://instagram.com/olivertzeng1234) profile.
