@@ -1,6 +1,9 @@
 # Hi there 👋
 
-My name is Oliver Tzeng, I'm 15 years old and I'm a student.
+>🇹🇼 Taiwanese 
+Interested in:  Origami  Piano  Accordion `Shellscripting`
+__**Uses `*Arch*` BTW**__
+Github https://github.com/olivertzeng
 
 #### 👨‍💻 I’m currently working on:
 * Taiwanese CAP
