@@ -1,12 +1,10 @@
 # Hi there 👋
-
->🇹🇼 Taiwanese 
-Interested in:  Origami  Piano  Accordion `Shellscripting`
-__**Uses `*Arch*` BTW**__
-Github https://github.com/olivertzeng
+ 
+I'm a Taiwanese student and
+> **Uses *`Arch`* BTW**
 
 #### 👨‍💻 I’m currently working on:
-* Taiwanese CAP
+* CAP Test
 
 #### 📚 Currently, I'm most interested in:
 * Arch Linux
@@ -32,6 +30,6 @@ Github https://github.com/olivertzeng
 
 ## 📫 How to reach me:
 * My [Twitter](https://twitter.com/olivertzeng) profile.
-* My Discord account at `Oliver Tzeng#7530`.
+* My Discord: `Oliver Tzeng#7530`.
 * My [Reddit](https://reddit.com/olivertzeng) profile.
 * My [Instagram](https://instagram.com/olivertzeng1234) profile.
