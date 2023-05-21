@@ -3,14 +3,9 @@
 I'm a Taiwanese student and
 > **Uses *`Arch`* BTW**
 
-#### 👨‍💻 I’m currently working on:
-* CAP Test
-
 #### 📚 Currently, I'm most interested in:
 * Arch Linux
 * Shell
-* Rust
-* iOS front-end app development (Swift 5 and SwiftUI)
 
 #### 🤹‍♂️ I have good skills in:
 * Shellscript
