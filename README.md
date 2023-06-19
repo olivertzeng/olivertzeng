@@ -1,3 +1,4 @@
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
 # Hi there 👋
  
 I'm a Taiwanese student and
@@ -17,6 +18,9 @@ I'm a Taiwanese student and
 <a href="https://github.com/olivertzeng/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olivertzeng&theme=dark&layout=compact&hide=html,javascript" />
 </a>
+
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)
+[![Russian Warship Go Fuck Yourself](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/RussianWarship.svg)](https://stand-with-ukraine.pp.ua)
 
 #### 🔬 Other areas of interest:
 * Origami
