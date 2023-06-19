@@ -1,6 +1,13 @@
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
-# Hi there 👋
- 
+
+</div>
+
+<div align="center" width="50">
+
+<img src="https://github.com/olivertzeng/olivertzeng/blob/master/terminal.gif" alt="Welcome!" width="300"/>
+
+</div> 
+
 I'm a Taiwanese student and
 > **Uses *`Arch`* BTW**
 
