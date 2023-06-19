@@ -4,7 +4,7 @@
 
 <div align="center" width="50">
 
-<img src="https://github.com/olivertzeng/olivertzeng/blob/master/terminal.gif" alt="Welcome!" width="300"/>
+<img src="https://github.com/olivertzeng/olivertzeng/blob/main/terminal.gif?raw=true" alt="Welcome!" width="300"/>
 
 </div> 
 
