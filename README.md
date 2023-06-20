@@ -21,6 +21,7 @@ I'm a Taiwanese student and
 #### 🤹‍♂️ I have good skills in:
 * Shellscript
 * Localizing
+* Arch Tweaking
 
 <a href="https://github.com/olivertzeng">
   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=olivertzeng&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
@@ -33,13 +34,5 @@ I'm a Taiwanese student and
 * Piano
 * Accordion
 
-## 📫 How to reach me:
-* My [Twitter](https://twitter.com/olivertzeng) profile.
-* My Discord: `Oliver Tzeng#7530`.
-* My [Reddit](https://reddit.com/olivertzeng) profile.
-* My [Instagram](https://instagram.com/olivertzeng1234) profile.
-
-</br>
-</br>
 <i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
