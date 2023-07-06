@@ -1,14 +1,5 @@
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
-
-</div>
-
-<div align="center" width="50">
-
-<img src="https://github.com/olivertzeng/olivertzeng/blob/main/terminal.gif?raw=true" alt="Welcome!" width="300"/>
-
-</div> 
-
-I'm a Taiwanese student and
+# I'm a 🇹🇼ese student and
 > **Uses *`Arch`* BTW**
 
 [![Species](https://img.shields.io/badge/Species-Homo_sapiens-success?style=flat-square&logo=mailchimp&logoColor=white)](https://en.wikipedia.org/wiki/Homo_sapiens)
