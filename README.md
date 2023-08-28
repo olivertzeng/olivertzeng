@@ -1,5 +1,5 @@
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
-# I'm a 🇹🇼ese student in HSNU 1627 - 15 and
+# I'm a 🇹🇼ese student in HSNU 1627 - 15
 > **Uses *`Arch`* BTW**
 
 [![Species](https://img.shields.io/badge/Species-Homo_sapiens-success?style=flat-square&logo=mailchimp&logoColor=white)](https://en.wikipedia.org/wiki/Homo_sapiens)
