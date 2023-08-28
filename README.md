@@ -1,5 +1,5 @@
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
-# I'm a 🇹🇼ese student and
+# I'm a 🇹🇼ese student in HSNU 1627 - 15 and
 > **Uses *`Arch`* BTW**
 
 [![Species](https://img.shields.io/badge/Species-Homo_sapiens-success?style=flat-square&logo=mailchimp&logoColor=white)](https://en.wikipedia.org/wiki/Homo_sapiens)
@@ -12,10 +12,11 @@
 #### 🤹‍♂️ I have good skills in:
 * iOS Sideloading
 * iOS Jailbreaking
-* Shellscript
-* Localizing
+* `Shellscript`
+* `Zsh`
+* Localize
 * Arch Tweaking
-* Python
+* `Python`
 
 <a href="https://github.com/olivertzeng">
   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=olivertzeng&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
@@ -31,6 +32,7 @@
 * Vexillology
 * Chess
 * Reversi
+
 
 <i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
