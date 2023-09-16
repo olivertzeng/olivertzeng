@@ -45,6 +45,7 @@
 * Chess
 * Reversi
 * Origami
+![IMG_0436](https://github.com/olivertzeng/olivertzeng/assets/86348833/094e21c8-e2fc-4c79-bbb9-5b8d9c283ad7)
 
 <i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
