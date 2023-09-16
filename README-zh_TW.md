@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,py,bash,linux,md,vim,cpp,html,js,css,discord,instagram,github,stackoverflow,wordpress" />
+    <img src="https://skillicons.dev/icons?i=git,py,bash,linux,md,vim,cpp,html,js,css,discord,instagram,twitter,github,stackoverflow,wordpress" />
   </a>
 </p>
 
@@ -24,6 +24,10 @@
 * 翻譯
 * 安裝＋玩 Arch Linux
 * `Python`
+* `HTML`
+* `CSS`
+* `C++`
+* `JavaScript`
 
 <a href="https://github.com/olivertzeng">
   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=olivertzeng&show_icons=true&include_all_commits=true&count_private=false&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a" />
