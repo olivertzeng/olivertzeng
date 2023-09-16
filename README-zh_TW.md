@@ -1,6 +1,6 @@
-[繁體中文版本](https://github.com/olivertzeng/olivertzeng/blob/main/README-zh_TW.md)
+[English Version](https://github.com/olivertzeng/olivertzeng/blob/main/README.md)
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
-# I'm a 🇹🇼ese student in HSNU 1627 - 15
+# 我是一位 🇹的師大附中學生 1627 - 15
 > **Uses *`Arch`* BTW**
 
 [![Species](https://img.shields.io/badge/Species-Homo_sapiens-success?style=flat-square&logo=mailchimp&logoColor=white)](https://en.wikipedia.org/wiki/Homo_sapiens)
@@ -10,13 +10,13 @@
 [![Dotfiles](https://img.shields.io/badge/Setup-Dotfiles-blue?style=flat-square&logo=when-i-work&logoColor=white)](https://github.com/olivertzeng/dotfiles)
 [![Proton Mail](https://img.shields.io/badge/Email%20service-Proton%20Mail-informational?style=flat-square&color=8B89CC&logo=protonmail&logoColor=white)](https://proton.me/mail)
 
-#### 🤹‍♂️ I have good skills in:
-* iOS Sideloading
-* iOS Jailbreaking
-* `Shellscript`
+#### 🤹‍♂️ 我的專長：
+* iOS 側載（Sideloading）
+* iOS 越獄（Jailbreaking）
+* `Shell 腳本（Shellscripting）`
 * `Zsh`
-* Localize
-* Arch Tweaking
+* 翻譯
+* 安裝＋玩 Arch Linux
 * `Python`
 
 <a href="https://github.com/olivertzeng">
@@ -25,19 +25,15 @@
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)
 [![Russian Warship Go Fuck Yourself](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/RussianWarship.svg)](https://stand-with-ukraine.pp.ua)
 
-#### 🔬 Other areas of interest:
-* Origami
-* Piano
-* Accordion
-* Politics
-* Vexillology
-* Chess
-* Reversi
+#### 🔬 其他興趣：
+* 摺紙
+* 鋼琴
+* 手風琴
+* 政治學
+* 旗幟學
+* 西洋棋
+* 黑白旗
 
-
-<i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
-<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
-
-Reach me:
+哈哈我在這ㄟ
 <a rel="me" href="https://mastodon.social/@olivertzeng">Mastodon</a>
 
