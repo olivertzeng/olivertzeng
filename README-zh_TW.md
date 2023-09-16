@@ -3,6 +3,12 @@
 # 我是一位 🇹🇼 師大附中的學生 1627 - 15
 > **Uses *`Arch`* BTW**
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,py,bash,linux,md,vim,cpp,html,js,css,discord,instagram,github,stackoverflow,wordpress&perline=6" />
+  </a>
+</p>
+
 [![學名](https://img.shields.io/badge/Species-Homo_sapiens-success?style=flat-square&logo=mailchimp&logoColor=white)](https://en.wikipedia.org/wiki/Homo_sapiens)
 [![作業系統](https://img.shields.io/badge/OS-ArchLinux-informational?style=flat-square&logo=archlinux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
 [![作業系統](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
