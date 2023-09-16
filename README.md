@@ -1,4 +1,5 @@
-[繁體中文版本](https://github.com/olivertzeng/olivertzeng/blob/main/README-zh_TW.md)
+# [繁體中文版本](https://github.com/olivertzeng/olivertzeng/blob/main/README-zh_TW.md)
+
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
 # I'm a 🇹🇼ese student in HSNU 1627 - 15
 
@@ -37,14 +38,13 @@
 [![Russian Warship Go Fuck Yourself](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/RussianWarship.svg)](https://stand-with-ukraine.pp.ua)
 
 #### 🔬 Other areas of interest:
-* Origami
 * Piano
 * Accordion
 * Politics
 * Vexillology
 * Chess
 * Reversi
-
+* Origami
 
 <i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
