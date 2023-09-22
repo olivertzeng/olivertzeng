@@ -29,6 +29,7 @@
 * `CSS`
 * `C++`
 * `JavaScript`
+* 說：「方糖是大佬。」
 
 <a href="https://github.com/olivertzeng">
   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=olivertzeng&show_icons=true&include_all_commits=true&count_private=false&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a" />
@@ -37,13 +38,13 @@
 [![一定要殲滅惡螺絲軍隊 🔩](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/RussianWarship.svg)](https://stand-with-ukraine.pp.ua)
 
 #### 🔬 其他興趣：
-* 鋼琴
-* 手風琴
-* 政治學
-* 旗幟學
-* 西洋棋
-* 黑白旗
-* 摺紙
+* 🎹 鋼琴
+* 🪗 手風琴
+* 🇹🇼 政治學
+* 🏳️ 旗幟學
+* ♟️ 西洋棋
+* ⚫️ 黑白旗
+* 📄 摺紙
 ![IMG_0436](https://github.com/olivertzeng/olivertzeng/assets/86348833/8e1cc5be-b94b-48ec-bcb0-a3dad2e6b9d9)
 
 
