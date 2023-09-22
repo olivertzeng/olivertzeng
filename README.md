@@ -1,15 +1,14 @@
 # [繁體中文版本](https://github.com/olivertzeng/olivertzeng/blob/main/README-zh_TW.md)
-
+# `string FangTang = "DL"`
+## cout << FangTang << endl;
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
-# I'm a 🇹🇼ese student in HSNU 1627 - 15
-
+## I'm a 🇹🇼ese student in HSNU 1627 - 15
+### **Uses *`Arch`* BTW**
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,py,bash,linux,md,vim,cpp,html,js,css,discord,instagram,github,stackoverflow,wordpress&perline=6" />
   </a>
 </p>
-
-> **Uses *`Arch`* BTW**
 
 [![Species](https://img.shields.io/badge/Species-Homo_sapiens-success?style=flat-square&logo=mailchimp&logoColor=white)](https://en.wikipedia.org/wiki/Homo_sapiens)
 [![OS](https://img.shields.io/badge/OS-ArchLinux-informational?style=flat-square&logo=archlinux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
