@@ -23,7 +23,7 @@
 
 [![設定檔](https://img.shields.io/badge/Setup-Dotfiles-blue?style=flat-square&logo=when-i-work&logoColor=white&label=設定檔)](https://github.com/olivertzeng/dotfiles)
 
-[![Proton 郵件](https://img.shields.io/badge/Email%20service-Proton%20Mail-informational?style=flat-square&color=8B89CC&logo=protonmail&logoColor=white&label=Proton+郵件)](https://proton.me/mail)
+[![電子郵件](https://img.shields.io/badge/Email%20service-Proton%20Mail-informational?style=flat-square&color=8B89CC&logo=protonmail&logoColor=white&label=Proton+郵件)](https://proton.me/mail)
 
 #### 🤹‍♂️ 我的專長：
 * iOS 側載（Sideloading）
