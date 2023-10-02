@@ -26,17 +26,17 @@
 [![電子郵件](https://img.shields.io/badge/Email%20service-Proton%20Mail-informational?style=flat-square&color=8B89CC&logo=protonmail&logoColor=white&label=Proton+郵件)](https://proton.me/mail)
 
 #### 🤹‍♂️ 我的專長：
-* iOS 側載（Sideloading）
-* iOS 越獄（Jailbreaking）
-* `Shell 腳本（Shellscripting）`
-* `Zsh`
-* 翻譯
-* 安裝＋玩 Arch Linux
-* `Python`
-* `HTML`
-* `CSS`
-* `C++`
-* `JavaScript`
+* 📲iOS 側載（Sideloading）
+* 📱iOS 越獄（Jailbreaking）
+* 🐚`Shell 腳本（Shellscripting）`
+* 💻`Zsh`
+* 🔄翻譯
+* 🐧安裝＋玩 Arch Linux
+* 🐍`Python`
+* 🌏`HTML`
+* 🌐`CSS`
+* ©️`C++`
+* ☕️`JavaScript`
 * 說：「方糖是大佬。」
 
 <a href="https://github.com/olivertzeng">
