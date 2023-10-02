@@ -19,17 +19,17 @@
 [![Proton Mail](https://img.shields.io/badge/Email%20service-Proton%20Mail-informational?style=flat-square&color=8B89CC&logo=protonmail&logoColor=white)](https://proton.me/mail)
 
 #### 🤹‍♂️ I have good skills in:
-* iOS Sideloading
-* iOS Jailbreaking
-* `Shellscript`
-* `Zsh`
-* Localize
-* Arch Tweaking
-* `Python`
-* `HTML`
-* `CSS`
-* `C++`
-* `JavaScript`
+* 📲iOS Sideloading
+* 📱iOS Jailbreaking
+* 🐚`Shellscript`
+* 💻`Zsh`
+* 🔄Localize
+* 🐧Arch Tweaking
+* 🐍`Python`
+* 🌏`HTML`
+* 🌐`CSS`
+* ©️`C++`
+* ☕️`JavaScript`
 
 <a href="https://github.com/olivertzeng">
   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=olivertzeng&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
@@ -38,13 +38,13 @@
 [![Russian Warship Go Fuck Yourself](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/RussianWarship.svg)](https://stand-with-ukraine.pp.ua)
 
 #### 🔬 Other areas of interest:
-* Piano
-* Accordion
-* Politics
-* Vexillology
-* Chess
-* Reversi
-* Origami
+* 🎹 Piano
+* 🪗 Accordion
+* 🇹🇼 Politics
+* 🏳️ Vexillology
+* ♟️ Chess
+* ⚫️ Reversi
+* 📄 Origami
 ![IMG_0436](https://github.com/olivertzeng/olivertzeng/assets/86348833/094e21c8-e2fc-4c79-bbb9-5b8d9c283ad7)
 
 <i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
