@@ -10,6 +10,7 @@
   </a>
 </p>
 
+![](https://komarev.com/ghpvc/?username=olivertzeng&color=blueviolet&style=plastic)
 [![Species](https://img.shields.io/badge/Species-Homo_sapiens-success?style=flat-square&logo=mailchimp&logoColor=white)](https://en.wikipedia.org/wiki/Homo_sapiens)
 [![OS](https://img.shields.io/badge/OS-ArchLinux-informational?style=flat-square&logo=archlinux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
 [![OS](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
