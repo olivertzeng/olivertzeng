@@ -11,11 +11,17 @@
   </a>
 </p>
 ![](https://komarev.com/ghpvc/?username=olivertzeng&color=blueviolet&style=plastic&lable=訪問次數)
+
 [![學名](https://img.shields.io/badge/Species-Homo_sapiens-success?style=flat-square&logo=mailchimp&logoColor=white&label=學名)](https://en.wikipedia.org/wiki/Homo_sapiens)
+
 [![作業系統](https://img.shields.io/badge/OS-ArchLinux-informational?style=flat-square&logo=archlinux&label=作業系統&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
+
 [![作業系統](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&label=作業系統（備用電腦）&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
+
 [![編輯器](https://img.shields.io/badge/Editor-Vim-blue?style=flat-square&logo=vim&logoColor=white&label=編輯器)](https://vim.org/)
+
 [![設定檔](https://img.shields.io/badge/Setup-Dotfiles-blue?style=flat-square&logo=when-i-work&logoColor=white&label=設定檔)](https://github.com/olivertzeng/dotfiles)
+
 [![Proton 郵件](https://img.shields.io/badge/Email%20service-Proton%20Mail-informational?style=flat-square&color=8B89CC&logo=protonmail&logoColor=white&label=Proton+郵件)](https://proton.me/mail)
 
 #### 🤹‍♂️ 我的專長：
