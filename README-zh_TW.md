@@ -42,9 +42,6 @@
 <a href="https://github.com/olivertzeng">
   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=olivertzeng&show_icons=true&include_all_commits=true&count_private=false&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a" />
 
-[![支援烏克蘭 🇺🇦](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)
-[![一定要殲滅惡螺絲軍隊 🔩](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/RussianWarship.svg)](https://stand-with-ukraine.pp.ua)
-
 #### 🔬 其他興趣：
 * 🎹 鋼琴
 * 🪗 手風琴
