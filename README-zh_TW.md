@@ -1,4 +1,4 @@
-# [English Version](https://github.com/olivertzeng/olivertzeng/blob/main/README.md)
+# [Get English Version](https://github.com/olivertzeng/olivertzeng/blob/main/README.md)
 # 方糖是大佬
 
 [![支援烏克蘭 🇺🇦](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
