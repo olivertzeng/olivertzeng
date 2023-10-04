@@ -6,7 +6,7 @@
 ### **Uses *`Arch`* BTW**
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,py,bash,linux,md,vim,cpp,html,js,css,discord,instagram,github,stackoverflow,wordpress&perline=6" />
+    <img src="https://skillicons.dev/icons?i=git,py,bash,linux,md,vim,cpp,html,js,css,discord,instagram,github,stackoverflow,wordpress" />
   </a>
 </p>
 
