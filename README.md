@@ -7,17 +7,14 @@
 ### **Uses *`Arch`* BTW**
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,py,bash,linux,md,vim,cpp,html,js,css,discord,instagram,github,stackoverflow,wordpress" />
+    <img src="https://skillicons.dev/icons?i=git,py,bash,linux,md,vim,cpp,html,js,css,,github,stackoverflow" />
   </a>
 </p>
 
 ![](https://komarev.com/ghpvc/?username=olivertzeng&color=blueviolet&style=plastic)
-[![Species](https://img.shields.io/badge/Species-Homo_sapiens-success?style=flat-square&logo=mailchimp&logoColor=white)](https://en.wikipedia.org/wiki/Homo_sapiens)
 [![OS](https://img.shields.io/badge/OS-ArchLinux-informational?style=flat-square&logo=archlinux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
-[![OS](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
 [![Editor](https://img.shields.io/badge/Editor-Vim-blue?style=flat-square&logo=vim&logoColor=white)](https://vim.org/)
 [![Dotfiles](https://img.shields.io/badge/Setup-Dotfiles-blue?style=flat-square&logo=when-i-work&logoColor=white)](https://github.com/olivertzeng/dotfiles)
-[![Proton Mail](https://img.shields.io/badge/Email%20service-Proton%20Mail-informational?style=flat-square&color=8B89CC&logo=protonmail&logoColor=white)](https://proton.me/mail)
 
 #### 🤹‍♂️ I have good skills in:
 * 📲iOS Sideloading
