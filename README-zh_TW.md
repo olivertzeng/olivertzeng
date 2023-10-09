@@ -23,6 +23,9 @@
 * ☕️`JavaScript`
 * 🛐 說：「雨日是大佬。」
 
+<a href="https://github.com/olivertzeng">
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=olivertzeng&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=gruvbox" />
+
 #### 🔬 其他興趣：
 * 🎹 鋼琴
 * 🪗 手風琴
