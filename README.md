@@ -4,6 +4,7 @@
 ## `cout << Yuri << endl;`
 ## I'm a 🇹🇼ese student in HSNU 1627 - 15
 ### **𝓘 𝓾𝓼𝓮 *`Arch`* 𝓑𝓣𝓦**
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,py,bash,linux,md,vim,cpp,html,js,css,discord,instagram,github,stackoverflow,wordpress" />
