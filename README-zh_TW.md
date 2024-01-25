@@ -12,16 +12,16 @@
 #### 🤹‍♂️ 我的專長：
 * 📲 iOS 側載（Sideloading）
 * 📱 iOS 越獄（Jailbreaking）
-* 🐚`Shell 腳本（Shellscripting）`
-* 💻`Zsh`
 * 🔄 翻譯
 * 🐧 安裝＋玩 Arch Linux
-* 🐍`Python`
-* 🌏`HTML`
-* 🌐`CSS`
-* ©️`C++`
-* ☕️`JavaScript`
-* 🛐 說：「雨日是大佬。」
+* 🐚 `Shell 腳本（Shellscripting）`
+* 💻 `Zsh`
+* 🐱 `Scratch`
+* 🐍 `Python`
+* 🌏 `HTML`
+* 🌐 `CSS`
+* ©️ `C++`
+* ☕️ `JavaScript`
 
 <a href="https://github.com/olivertzeng">
   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=olivertzeng&theme=gruvbox" />
