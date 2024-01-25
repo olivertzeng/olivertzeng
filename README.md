@@ -14,15 +14,16 @@
 #### 🤹‍♂️ I have good skills in:
 * 📲 iOS Sideloading
 * 📱 iOS Jailbreaking
-* 🐚`Shellscript`
-* 💻`Zsh`
+* 🐱 `Scratch`
+* 🐚 `Shellscript`
+* 💻 `Zsh`
 * 🔄 Localize
 * 🐧 Arch Tweaking
-* 🐍`Python`
-* 🌏`HTML`
-* 🌐`CSS`
-* ©️`C++`
-* ☕️`JavaScript`
+* 🐍 `Python`
+* 🌏 `HTML`
+* 🌐 `CSS`
+* ©️ `C++`
+* ☕️ `JavaScript`
 
 <a href="https://github.com/olivertzeng">
   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=olivertzeng&theme=gruvbox" />
