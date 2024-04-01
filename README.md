@@ -1,7 +1,5 @@
 # [繁體中文版本](https://github.com/olivertzeng/olivertzeng/blob/main/README-zh_TW.md)
 
-## `string Yuri = "DL";`
-## `cout << Yuri << endl;`
 ## I'm a 🇹🇼ese student in HSNU 1627 - 15
 ### **𝓘 𝓾𝓼𝓮 *`Arch`* 𝓑𝓣𝓦**
 

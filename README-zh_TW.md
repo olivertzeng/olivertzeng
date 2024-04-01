@@ -1,5 +1,4 @@
 # [Get English Version](https://github.com/olivertzeng/olivertzeng/blob/main/README.md)
-# 雨日是大佬
 ## 我是一位 🇹🇼 師大附中的學生 1627 - 15
 ### **𝓘 𝓾𝓼𝓮 *`Arch`* 𝓑𝓣𝓦**
 
