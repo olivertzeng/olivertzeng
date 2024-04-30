@@ -1,20 +1,15 @@
 # [Get English Version](https://github.com/olivertzeng/olivertzeng/blob/main/README.md)
 ## 我是一位 🇹🇼 師大附中的學生 1627 - 15
 ### **𝓘 𝓾𝓼𝓮 *`Arch`* 𝓑𝓣𝓦**
-<p a
-<a
-
-
-</
-</p>
 
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=git,py,bash,linux,md,vim,cpp,html,js,css,discord,instagram,twitter,github,stackoverflow,wordpress" />
+<img
+src="https://skillicons.dev/icons?i=apple,arch,bash,cpp,css,discord,git,github,gitlab,html,instagram,js,linux,lua,md,neovim,py,stackoverflow,twitter" />
 </a>
 </p>
 
-#### 🤹‍♂️ 我的專長：
+#### 🤹 我的專長：
 * 📲 iOS 側載（Sideloading）
 * 🔐 iOS 越獄（Jailbreaking）
 * 🔄 翻譯
