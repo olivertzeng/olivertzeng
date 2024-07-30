@@ -5,7 +5,7 @@
 <p align="center">
 <a href="https://skillicons.dev">
 <img
-src="https://skillicons.dev/icons?i=apple,arch,bash,cpp,css,discord,git,github,gitlab,html,instagram,js,linux,lua,md,neovim,py,stackoverflow,twitter" />
+src="https://skillicons.dev/icons?i=apple,arch,bash,cpp,css,discord,git,github,gitlab,html,instagram,js,latex,linux,lua,md,neovim,py,stackoverflow,twitter" />
 </a>
 </p>
 
@@ -18,6 +18,7 @@ src="https://skillicons.dev/icons?i=apple,arch,bash,cpp,css,discord,git,github,g
 * 🌐 `CSS`
 * 🌏 `HTML`
 * ☕️ `JavaScript`
+* 📎 `LaTex`
 * 🌙 `Lua`
 * 📝 `Markdown`
 * 🐍 `Python`
