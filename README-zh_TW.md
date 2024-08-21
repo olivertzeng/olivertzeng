@@ -32,6 +32,7 @@ src="https://skillicons.dev/icons?i=apple,arch,bash,cpp,css,discord,git,github,g
 <a href="https://github.com/olivertzeng">
 <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs?username=olivertzeng&theme=gruvbox" />
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 #### 🔬 其他興趣：
 * 🎹 鋼琴
 * 🪗 手風琴
