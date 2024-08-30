@@ -1,6 +1,6 @@
 # [繁體中文版本](https://github.com/olivertzeng/olivertzeng/blob/main/README-zh_TW.md)
 
-## I'm a 🇹🇼ese student in HSNU 1627 - number 15
+## I'm a 🇹🇼ese student in HSNU 1626 - number 21
 ### **𝓘 𝓾𝓼𝓮 *`Arch`* 𝓑𝓣𝓦**
 <p align="center">
 <a href="https://skillicons.dev">
