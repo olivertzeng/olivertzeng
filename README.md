@@ -34,12 +34,13 @@ src="https://skillicons.dev/icons?i=apple,arch,bash,cpp,css,discord,git,github,g
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 #### 🔬 Other areas of interest:
-* ♟️ Chess
-* ⚫️ Reversi
-* 🇹🇼 Politics
-* 🎹 Piano
-* 🏳️ Vexillology
 * 💮 Average Jojo Fan
+* 📁 Ace Attorney
 * 🪗 Accordion
+* ♟️ Chess
+* 🎹 Piano
+* ⚫️ Reversi
+* 🇹🇼 ***Tired of*** Politics
+* 🏳️ Vexillology
 * 📄 Origami
 ![IMG_0436](https://github.com/olivertzeng/olivertzeng/assets/86348833/094e21c8-e2fc-4c79-bbb9-5b8d9c283ad7)

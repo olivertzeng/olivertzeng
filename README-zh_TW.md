@@ -34,12 +34,13 @@ src="https://skillicons.dev/icons?i=apple,arch,bash,cpp,css,discord,git,github,g
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 #### 🔬 其他興趣：
-* 🎹 鋼琴
-* 🪗 手風琴
-* 🇹🇼 政治學
-* 🏳️ 旗幟學
-* ♟️ 西洋棋
-* ⚫️ 黑白旗
 * 💮 Jojo 粉
+* 📁 逆轉裁判
+* 🪗 手風琴
+* ♟️ 西洋棋
+* 🎹 鋼琴
+* 🇹🇼 ~~政治學~~
+* ⚫️ 黑白旗
+* 🏳️ 旗幟學
 * 📄 摺紙
 ![IMG_0436](https://github.com/olivertzeng/olivertzeng/assets/86348833/8e1cc5be-b94b-48ec-bcb0-a3dad2e6b9d9)
