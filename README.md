@@ -21,10 +21,10 @@ src="https://skillicons.dev/icons?i=arch,apple,bash,cpp,css,discord,git,github,g
 * 🐚 `Shellscript`
 * 💻 `Zsh`
 * 📝 `Markdown`
+* 🤖 AI Prompting
 * 🐧 Arch Tweaking
-* 🔐 iOS Jailbreaking
-* 📲 iOS Sideloading
-* 🔄 Localize
+* 🔓 iOS Jailbreaking
+* 🔄 Localization
 
 <a href="https://github.com/olivertzeng">
 <img height="137px" src="https://github-readme-stats.vercel.app/api?username=olivertzeng&theme=gruvbox" />
@@ -34,12 +34,24 @@ src="https://skillicons.dev/icons?i=arch,apple,bash,cpp,css,discord,git,github,g
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 #### 🔬 Other areas of interest:
-* 💮 Average Jojo Fan
-* 📁 Ace Attorney
-* 🪗 Accordion
-* ♟️ Chess
-* 🎹 Piano
-* ⚫️ Reversi
+* 📺 Anime
+ - 👻 Dandadan
+ - ⚡️ Jojo's Bizzare Adventure
+ - 🕵️‍♂️ Spy x Family
+* ♟️ Board Games
+    - ♟️ Chess
+    - ⚫️ Reversi
+* 🎮 Gaming
+    - 📁 Ace Attorney
+    - 🩸 Danganronpa
+    - ❤️ Doki Doki Literature Club
+    - 🎶 maimai DX
+    - 💊 Needy Girl Overdose
+    - 🔪 MiSide
+    - 🧰 Modding games in general
+* 🎵 Music(stopped learning since 2023)
+    - 🪗 Accordion
+    - 🎹 Piano
 * 🇹🇼 ***Tired of*** Politics
 * 🏳️ Vexillology
 * 📄 Origami

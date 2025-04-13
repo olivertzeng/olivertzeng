@@ -10,21 +10,21 @@ src="https://skillicons.dev/icons?i=arch,apple,bash,cpp,css,discord,git,github,g
 </p>
 
 #### 🤹 我的專長：
-* 📲 iOS 側載（Sideloading）
-* 🔐 iOS 越獄（Jailbreaking）
-* 🔄 翻譯
-* 🐧 安裝＋玩 Arch Linux
 * ©️ `C++`
 * 🌐 `CSS`
 * 🌏 `HTML`
 * ☕️ `JavaScript`
 * 📎 `LaTex`
 * 🌙 `Lua`
-* 📝 `Markdown`
 * 🐍 `Python`
 * 🐱 `Scratch`
-* 🐚 `Shell 腳本（Shellscripting）`
+* 🐚 `Shellscript`
 * 💻 `Zsh`
+* 📝 `Markdown`
+* 🤖 製作 AI 提示語
+* 🐧 玩 Arch Linux
+* 🔓 iOS 越獄
+* 🔄 翻譯
 
 <a href="https://github.com/olivertzeng">
 <img height="137px" src="https://github-readme-stats.vercel.app/api?username=olivertzeng&theme=gruvbox" />
@@ -34,13 +34,25 @@ src="https://skillicons.dev/icons?i=arch,apple,bash,cpp,css,discord,git,github,g
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 #### 🔬 其他興趣：
-* 💮 Jojo 粉
-* 📁 逆轉裁判
-* 🪗 手風琴
-* ♟️ 西洋棋
-* 🎹 鋼琴
+* 📺 Anime
+ - 👻 膽大黨
+ - ⚡️ Jojo 的奇妙冒險
+ - 🕵️‍♂️ 間諜家家酒
+* ♟️ Board Games
+    - ♟️ 西洋棋
+    - ⚫️ 黑白棋
+* 🎮 Gaming
+    - 📁 逆轉裁判
+    - 🩸 槍彈辯駁
+    - ❤️ 心跳文學部
+    - 🎶 maimai DX（舞萌）
+    - 💊 主播女孩重度依賴
+    - 🔪 MiSide
+    - 🧰 模改遊戲
+* 🎵 樂器（自從 2023 停學到現在）
+    - 🪗 手風琴
+    - 🎹 鋼琴
 * 🇹🇼 ~~政治學~~
-* ⚫️ 黑白旗
 * 🏳️ 旗幟學
 * 📄 摺紙
 ![IMG_0436](https://github.com/olivertzeng/olivertzeng/assets/86348833/8e1cc5be-b94b-48ec-bcb0-a3dad2e6b9d9)
