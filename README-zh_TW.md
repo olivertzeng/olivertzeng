@@ -34,10 +34,11 @@ src="https://skillicons.dev/icons?i=arch,apple,bash,cpp,css,discord,git,github,g
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 #### 🔬 其他興趣：
+
 * 📺 Anime
- - 👻 膽大黨
- - ⚡️ Jojo 的奇妙冒險
- - 🕵️‍♂️ 間諜家家酒
+    - 👻 膽大黨
+    - ⚡️ Jojo 的奇妙冒險
+    - 🕵️‍♂️ 間諜家家酒
 * ♟️ Board Games
     - ♟️ 西洋棋
     - ⚫️ 黑白棋

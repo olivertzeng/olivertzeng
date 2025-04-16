@@ -35,9 +35,9 @@ src="https://skillicons.dev/icons?i=arch,apple,bash,cpp,css,discord,git,github,g
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 #### 🔬 Other areas of interest:
 * 📺 Anime
- - 👻 Dandadan
- - ⚡️ Jojo's Bizzare Adventure
- - 🕵️‍♂️ Spy x Family
+    - 👻 Dandadan
+    - ⚡️ Jojo's Bizzare Adventure
+    - 🕵️‍♂️ Spy x Family
 * ♟️ Board Games
     - ♟️ Chess
     - ⚫️ Reversi
