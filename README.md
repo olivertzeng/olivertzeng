@@ -56,8 +56,8 @@ src="https://skillicons.dev/icons?i=arch,apple,bash,cpp,css,discord,git,github,g
         - 🔪 MiSide
     - 🎵 Rhythm Games
         - 💻 Rhythm Games on the Laptop
-            - 🔘 Osu!lazer
             - 🎸 Muse Dash
+            - 🔘 Osu!lazer
         - 💰 Arcade
             - ⭕️ maimai DX
             - 🧤 CHUNITHM
