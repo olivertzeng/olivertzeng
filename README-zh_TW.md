@@ -36,24 +36,31 @@ src="https://skillicons.dev/icons?i=arch,apple,bash,cpp,css,discord,git,github,g
 #### 🔬 其他興趣：
 
 * 📺 動漫
-    - 👻 膽大黨
     - ⚡️ Jojo 的奇妙冒險
+    - 👻 膽大黨
     - 🕵️‍♂️ 間諜家家酒
 * ♟️ 桌遊
     - ♟️ 西洋棋
     - ⚫️ 黑白棋
 * 🎮 遊戲
-    - 📁 逆轉裁判
-    - 🩸 槍彈辯駁
-    - ❤️ 心跳文學部
-    - 🎶 maimai DX（舞萌）
-    - 💊 主播女孩重度依賴
-    - 🔪 MiSide
+    - 🕵️ 推理
+        - 📁 逆轉裁判
+        - 🩸 槍彈辯駁
+    - 💔 愛情恐怖
+        - 💗 心跳文學部
+        - 💊 主播女孩重度依賴
+        - 🔪 MiSide
+    - 🎵 音遊
+        - 💻 筆電音遊
+            - 🔘 Osu!lazer
+            - 🎸 Muse Dash
+        - 💰 機台
+            - ⭕️ maimai DX（舞萌）
+            - 🧤 CHUNITHM（中二）
     - 🧰 模改遊戲
 * 🎵 樂器（自從 2023 停學到現在）
     - 🪗 手風琴
     - 🎹 鋼琴
-* 🇹🇼 ~~政治學~~
 * 🏳️ 旗幟學
 * 📄 摺紙
 ![IMG_0436](https://github.com/olivertzeng/olivertzeng/assets/86348833/8e1cc5be-b94b-48ec-bcb0-a3dad2e6b9d9)
