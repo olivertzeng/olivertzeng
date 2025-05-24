@@ -34,25 +34,38 @@ src="https://skillicons.dev/icons?i=arch,apple,bash,cpp,css,discord,git,github,g
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 #### 🔬 Other areas of interest:
+
 * 📺 Anime
-    - 👻 Dandadan
-    - ⚡️ Jojo's Bizzare Adventure
     - 🕵️‍♂️ Spy x Family
+    - ⚡️ Jojo's Bizzarr Adventure
+    - 👻 Dandadan
+* 📖 Manga
+    - ⚡️ Jojo's Bizzarr Adventure
+    - ⛅️ Merryweatherey Comics
+    - 🦑 Squid Girl
 * ♟️ Board Games
     - ♟️ Chess
     - ⚫️ Reversi
-* 🎮 Gaming
-    - 📁 Ace Attorney
-    - 🩸 Danganronpa
-    - ❤️ Doki Doki Literature Club
-    - 🎶 maimai DX
-    - 💊 Needy Girl Overdose
-    - 🔪 MiSide
-    - 🧰 Modding games in general
+* 🎮 Games
+    - 🕵️ Detective Visual Novels
+        - 📁 Ace Attorney
+        - 🩸 Danganronpa
+    - 💔 Romance Horror
+        - 💗 Doki Doki Literature Club
+        - 💊 Needy Girl Overdose
+        - 🔪 MiSide
+    - 🎵 Rhythm Games
+        - 💻 Rhythm Games on the Laptop
+            - 🔘 Osu!lazer
+            - 🎸 Muse Dash
+        - 💰 Arcade
+            - ⭕️ maimai DX
+            - 🧤 CHUNITHM
+    - 🧰 Game Modding
 * 🎵 Music(stopped learning since 2023)
-    - 🪗 Accordion
     - 🎹 Piano
-* 🇹🇼 ***Tired of*** Politics
+    - 🪗 Accordion
 * 🏳️ Vexillology
 * 📄 Origami
+
 ![IMG_0436](https://github.com/olivertzeng/olivertzeng/assets/86348833/094e21c8-e2fc-4c79-bbb9-5b8d9c283ad7)
