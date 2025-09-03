@@ -35,14 +35,8 @@ src="https://skillicons.dev/icons?i=arch,apple,bash,cpp,css,discord,git,github,g
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 #### 🔬 Other areas of interest:
 
-* 📺 Anime
-    - 🕵️‍♂️ Spy x Family
-    - ⚡️ Jojo's Bizzarr Adventure
-    - 👻 Dandadan
-* 📖 Manga
-    - ⚡️ Jojo's Bizzarr Adventure
-    - ⛅️ Merryweatherey Comics
-    - 🦑 Squid Girl
+* 🇯🇵 Manga & Anime
+	- Check out my [AniList](https://anilist.co/user/olivertzeng)
 * ♟️ Board Games
     - ♟️ Chess
     - ⚫️ Reversi

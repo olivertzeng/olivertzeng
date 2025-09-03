@@ -35,14 +35,9 @@ src="https://skillicons.dev/icons?i=arch,apple,bash,cpp,css,discord,git,github,g
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 #### 🔬 其他興趣：
 
-* 📺 動漫
-    - 🕵️‍♂️ 間諜家家酒
-    - ⚡️ Jojo 的奇妙冒險
-    - 👻 膽大黨
-* 📖 漫畫
-    - ⚡️ Jojo 的奇妙冒險
-    - ⛅️ Merryweatherey 系列
-    - 🦑 侵略！烏賊娘
+
+* 🇯🇵 漫畫＆動漫
+	- 請查看我的[AniList](https://anilist.co/user/olivertzeng)
 * ♟️ 桌遊
     - ♟️ 西洋棋
     - ⚫️ 黑白棋
