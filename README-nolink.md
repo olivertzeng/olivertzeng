@@ -27,6 +27,7 @@
     - ⚫️ Reversi
 * 🎮 Games
     - 🕵️ Detective Visual Novels
+        - 🌸 Manosaba
         - 📁 Ace Attorney
         - 🩸 Danganronpa
     - 💔 Romance Horror

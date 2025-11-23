@@ -42,6 +42,7 @@ src="https://skillicons.dev/icons?i=arch,apple,bash,cpp,css,discord,git,github,g
     - ⚫️ Reversi
 * 🎮 Games
     - 🕵️ Detective Visual Novels
+        - 🌸 Manosaba
         - 📁 Ace Attorney
         - 🩸 Danganronpa
     - 💔 Romance Horror
