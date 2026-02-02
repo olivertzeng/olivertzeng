@@ -17,6 +17,7 @@
 * 🐧 Arch Tweaking
 * 🔓 iOS Jailbreaking
 * 🔄 Localization
+* 🍺 SillyTavern Card Making
 
 #### 🔬 Other areas of interest:
 

@@ -25,6 +25,7 @@ src="https://skillicons.dev/icons?i=arch,apple,bash,cpp,css,discord,git,github,g
 * 🐧 Arch Tweaking
 * 🔓 iOS Jailbreaking
 * 🔄 Localization
+* 🍺 SillyTavern Card Making
 
 <a href="https://github.com/olivertzeng">
 <img height="137px" src="https://github-readme-stats.vercel.app/api?username=olivertzeng&theme=gruvbox" />
