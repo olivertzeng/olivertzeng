@@ -1,17 +1,17 @@
 # [繁體中文版本](https://github.com/olivertzeng/olivertzeng/blob/main/README-zh_TW.md)
 
-## I'm a 🇹🇼ese student in HSNU 1626 - number 21
-### **𝓘 𝓾𝓼𝓮 *`Arch`* 𝓑𝓣𝓦**
+### **I Use *`Arch`* BTW
 <p align="center">
 <a href="https://skillicons.dev">
 <img
-src="https://skillicons.dev/icons?i=arch,apple,bash,cpp,css,discord,git,github,gitlab,html,instagram,js,latex,linux,lua,md,neovim,py,stackoverflow,twitter" />
+src="https://skillicons.dev/icons?i=apple,arch,bash,cpp,css,discord,docker,git,github,gitlab,html,instagram,js,latex,linux,lua,md,neovim,py,stackoverflow,twitter" />
 </a>
 </p>
 
 #### 🤹 I have good skills in:
 * ©️ `C++`
 * 🌐 `CSS`
+* 🐋 `Docker`
 * 🌏 `HTML`
 * ☕️ `JavaScript`
 * 📎 `LaTex`
@@ -19,21 +19,16 @@ src="https://skillicons.dev/icons?i=arch,apple,bash,cpp,css,discord,git,github,g
 * 🐍 `Python`
 * 🐱 `Scratch`
 * 🐚 `Shellscript`
-* 💻 `Zsh`
 * 📝 `Markdown`
+* 💻 `Zsh`
 * 🤖 AI Prompting
 * 🐧 Arch Tweaking
 * 🔓 iOS Jailbreaking
 * 🔄 Localization
 * 🍺 SillyTavern Card Making
 
-<a href="https://github.com/olivertzeng">
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=olivertzeng&theme=gruvbox" />
+[![trophy](https://github-profile-trophy.vercel.app/?username=olivertzeng&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
-<a href="https://github.com/olivertzeng">
-<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs?username=olivertzeng&theme=gruvbox" />
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 #### 🔬 Other areas of interest:
 
 * 🇯🇵 Manga & Anime
