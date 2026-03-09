@@ -1,6 +1,7 @@
 # [繁體中文版本](https://github.com/olivertzeng/olivertzeng/blob/main/README-zh_TW.md)
 
-### **I Use *`Arch`* BTW
+## I Use `Arch` BTW
+
 <p align="center">
 <a href="https://skillicons.dev">
 <img

@@ -1,6 +1,6 @@
 # [Get English Version](https://github.com/olivertzeng/olivertzeng/blob/main/README.md)
 
-### **I Use *`Arch`* BTW
+## I Use `Arch` BTW
 
 <p align="center">
 <a href="https://skillicons.dev">
