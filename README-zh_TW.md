@@ -19,14 +19,11 @@ src="https://skillicons.dev/icons?i=apple,arch,bash,cpp,css,discord,docker,git,g
 * 🌙 `Lua`
 * 🐍 `Python`
 * 📝 `Markdown`
-* 🐱 `Scratch`
 * 🐚 `Shellscript`
 * 💻 `Zsh`
-* 🤖 製作 AI 提示語
 * 🐧 玩 Arch Linux
 * 🔓 iOS 越獄
 * 🔄 翻譯
-* 🍺 酒館製卡
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=olivertzeng&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 

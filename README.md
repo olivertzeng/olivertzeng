@@ -18,15 +18,12 @@ src="https://skillicons.dev/icons?i=apple,arch,bash,cpp,css,discord,docker,git,g
 * 📎 `LaTex`
 * 🌙 `Lua`
 * 🐍 `Python`
-* 🐱 `Scratch`
 * 🐚 `Shellscript`
 * 📝 `Markdown`
 * 💻 `Zsh`
-* 🤖 AI Prompting
 * 🐧 Arch Tweaking
 * 🔓 iOS Jailbreaking
 * 🔄 Localization
-* 🍺 SillyTavern Card Making
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=olivertzeng&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
